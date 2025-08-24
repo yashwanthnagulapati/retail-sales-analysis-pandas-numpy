@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales Analysis with Pandas + NumPy
+#  Retail Sales Analysis with Pandas + NumPy
 
 ## Project Overview
 This project analyzes a simulated **retail sales dataset (~300 records)** using **Python (Pandas + NumPy)**.  
